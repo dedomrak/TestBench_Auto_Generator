@@ -1,0 +1,8 @@
+#	Ports
+#	   INPUT | OUTPUT
+#      clk , reset , enable | count[3]  , count[2]  , count[1] , count[0]
+        111XXXX
+		0010000
+		1010001
+		0000001
+		1110000
